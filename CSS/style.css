@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+}
+.abdul-continuer{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    color: #fff;
+    background-color: #065fbd;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0 28px;
+    justify-content: space-between;
+}
+.left-top-bar,.right-top-bar{
+    display: flex;
+    align-items: center;
+}
+.left-top-bar{
+    margin-left: 8.5rem;
+}
+.right-top-bar{
+    margin-right: 8.5rem;
+}
+.left-top-bar-link{
+    text-decoration: none;
+    color: #fff;
+    padding: 0 0 0 10px;
+}
+.option-right-top-bar{
+    padding-left: 10px;
+}
+#right-top-bar-select{
+    color: #fff;
+    background: #065fbd;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+
+
+
+
